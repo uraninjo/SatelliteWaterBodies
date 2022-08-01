@@ -1,0 +1,3 @@
+# SatelliteWaterBodies
+
+Image segmentation konsepti üzerine kurulan harita görüntülerinden su gövdelerini elde etme projesidir...
