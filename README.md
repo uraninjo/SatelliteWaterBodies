@@ -8,6 +8,6 @@ Burada ele aldığım konulardan bazıları;
 - Bunları yaparkenki izlenen farklı yolların farkına varmaktır. 
 
 Buradaki kodların anlamayı kolaylaştırmak için açıklamalarını hazırladım. Farklı kişilerin kodlarını nasıl yazdığını inceledim ve açıklamalarım ile birleştirdim.  
-Gerçek                          Mask                      Model Sonucu
 
-![image](https://user-images.githubusercontent.com/74925286/182445254-f51ed190-f1de-451d-8a7b-dede2e02ebf5.png)
+![image](https://user-images.githubusercontent.com/74925286/182446367-54bd1a13-c2d8-46c8-acaf-bdac156c0db7.png)
+
