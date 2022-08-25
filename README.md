@@ -7,4 +7,7 @@ Burada ele aldığım konulardan bazıları;
 - İki kütüphanenin Image Segmentation'da nasıl yapılabileceği 
 - Bunları yaparkenki izlenen farklı yolların farkına varmaktır. 
 
-Buradaki kodların anlamayı kolaylaştırmak için açıklamalarını hazırladım. Farklı kişilerin kodlarını nasıl yazdığını inceledim ve açıklamalarım ile birleştirdim.   
+Buradaki kodların anlamayı kolaylaştırmak için açıklamalarını hazırladım. Farklı kişilerin kodlarını nasıl yazdığını inceledim ve açıklamalarım ile birleştirdim.  
+
+![image](https://user-images.githubusercontent.com/74925286/182446367-54bd1a13-c2d8-46c8-acaf-bdac156c0db7.png)
+
